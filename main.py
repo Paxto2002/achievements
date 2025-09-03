@@ -1,3 +1,3 @@
 print("Hello World")
-
-my_list = [1,2,3,4,5,6,7,8,9,10]
+printList = [1,2,3,4,5]
+print(printList)
